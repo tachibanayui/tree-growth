@@ -1,0 +1,16 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "for education purposes",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lmao": "echo ok && exit 0"
+  },
+  "author": "Tachibana Yui",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
